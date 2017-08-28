@@ -34,7 +34,7 @@ There are three general approaches to code splitting available:
 - Dynamic Imports: Split code via inline function calls within modules.
 
 
-## Entry Points
+## 入口点
 
 This is by far the easiest, and most intuitive, way to split code. However, it is more manual and has some pitfalls we will go over. Let's take a look at how we might split another module from the main bundle:
 
